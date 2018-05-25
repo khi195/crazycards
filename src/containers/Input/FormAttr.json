@@ -1,0 +1,42 @@
+[
+    {
+        "type":"text",
+        "name":"Title",
+        "placeholder":"Title"
+    },
+    {
+        "type":"text",
+        "name":"FirstName",
+        "placeholder":"First Name"
+    },
+    {
+        "type":"text",
+        "name":"LastName",
+        "placeholder":"Last Name"
+    },
+    {
+        "type":"date",
+        "name":"DOB",
+        "placeholder":"Date Of Birth"
+    },
+    {
+        "type":"number",
+        "name":"AnnualIncome",
+        "placeholder":"Annual Income"
+    },
+    {
+        "type":"text",
+        "name":"EmploymentStatus",
+        "placeholder":"Employment Status"
+    },
+    {
+        "type":"number",
+        "name":"HouseNumber",
+        "placeholder":"House Number"
+    },
+    {
+        "type":"text",
+        "name":"Postcode",
+        "placeholder":"Postcode"
+    }
+]
